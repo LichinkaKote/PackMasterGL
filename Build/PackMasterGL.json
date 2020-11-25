@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "PackMasterGL",
+"productName": "PackMaster",
 "productVersion": "0.1",
 "dataUrl": "PackMasterGL.data.unityweb",
 "wasmCodeUrl": "PackMasterGL.wasm.code.unityweb",
